@@ -2,18 +2,16 @@
 
 ## Studio Name Ideas
 - **Primary Ideas:**
-  - [Insert name idea 1]
-  - [Insert name idea 2]
+  - [Air Breathers]
+  - [Flow Works]
   - [Insert name idea 3]
 - **Alternative Ideas:**
-  - [Insert alternative name idea 1]
-  - [Insert alternative name idea 2]
-  - [Insert alternative name idea 3]
 
-- **Chosen Name**:
-- **About the name**:
-- **Social Medias with name available**:
-- **Possible domain names available**:
+
+- **Chosen Name**:Air Breather
+- **About the name**:Cool name but just normal people when you thinkl about it. 
+- **Social Medias with name available**:@airbreathers on bluesky and twitter are not taken
+- **Possible domain names available**:airbreathers.com is available it is like $2k though
 
 ---
 
@@ -55,7 +53,7 @@
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> [Describe your USP, such as unique mechanics, storytelling integration, or player interaction.]
+> [Fun multiplayer experiences with world building in the background. Games could be played online or couch co-op(unlike most recent games). ]
 
 ---
 
@@ -73,7 +71,7 @@
 ## Branding and Aesthetics
 *What will your studio's visual identity look like?*
 
-- **Logo Style:** [e.g., Minimalist, Geometric, Playful.]
+- **Logo Style:** [Nostalgic]
 - **Tagline Ideas:** 
   - [Tagline 1: e.g., "Simple Games, Complex Stories."]
   - [Tagline 2: e.g., "Where Mechanics Meet Meaning."]
