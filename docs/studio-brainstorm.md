@@ -18,7 +18,7 @@
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
-> [Write a concise and inspiring vision statement here.]
+> [We are here to create something to inspire of atleast 1 person through sotry or gamplay or art, if it changes the life of just 1 person then we have sucseeded.]
 
 ---
 
