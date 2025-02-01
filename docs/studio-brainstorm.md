@@ -18,7 +18,7 @@
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
-> [We are here to create something to inspire of atleast 1 person through sotry or gamplay or art, if it changes the life of just 1 person then we have sucseeded.]
+> [We are here to create something to inspire of atleast 1 person through sotry or gamplay or art, if it changes the life of just 1 person then we have succeeded.]
 
 ---
 
@@ -36,8 +36,8 @@
 *Who are your games designed for? Identify your primary audience based on your focus on card and board games.*
 
 - **Demographic:** [Fighting game fans, indie fans, and also Worms fans]
-- **Interests:** [e.g., Strategic Gameplay, Narrative-Driven Experiences, Multiplayer Fun]
-- **Platforms:** [e.g., PC, Web, Mobile]
+- **Interests:** [ Strategic Gameplay, Multiplayer 1v1 or 2v2 gameplay]
+- **Platforms:** [PC ]
 
 ---
 
@@ -71,12 +71,11 @@
 ## Branding and Aesthetics
 *What will your studio's visual identity look like?*
 
-- **Logo Style:** [Cool minimilist]
+- **Logo Style:** [Cool minimilist something to do with gas]
 - **Tagline Ideas:** 
-  - [Tagline 1: e.g., "Simple Games, Complex Stories."]
-  - [Tagline 2: e.g., "Where Mechanics Meet Meaning."]
-  - [Tagline 3: e.g., "Architects of Fun."]
-
+  - [Tagline 1: "Take it all in."]
+  - [Tagline 2: "Easy as a breeze, Tough as a storm."]
+ 
 -- **Sketches/Logo**:
 ![image](https://github.com/user-attachments/assets/83399bd5-eade-4a8d-a46c-b21444357633)
 
