@@ -35,7 +35,7 @@
 ## Target Audience
 *Who are your games designed for? Identify your primary audience based on your focus on card and board games.*
 
-- **Demographic:** [e.g., Casual Players, Board Game Enthusiasts, Indie Game Fans]
+- **Demographic:** [Fighting game fans, indie fans, and also Worms fans]
 - **Interests:** [e.g., Strategic Gameplay, Narrative-Driven Experiences, Multiplayer Fun]
 - **Platforms:** [e.g., PC, Web, Mobile]
 
@@ -45,8 +45,8 @@
 *What types of games will your studio focus on?*  
 *Consider your course's emphasis on depth, mechanics, and balance in card and board games.*
 
-- [e.g., Strategy Games, Puzzle Games, Cooperative Board Games]
-- [e.g., Themes: Fantasy, Sci-Fi, Minimalist, etc.]
+- [Fighting and turn based strategy games]
+- [Futuristic neon city asthetics with classic rpg enemies]
 
 ---
 
@@ -60,24 +60,25 @@
 ## Tools and Technology
 *What tools and platforms will you use to develop, test, and publish your games?*
 
-- **Game Engine(s):** [e.g., Unity, Godot, Phaser for digital prototyping.]
-- **Art Tools:** [e.g., Inkscape, Aseprite for board/card assets.]
-- **Audio Tools:** [e.g., Audacity, Bfxr for sound effects.]
-- **Version Control:** [e.g., GitHub for tracking development.]
-- **Publishing Platforms:** [e.g., Itch.io, GitHub Pages for hosting digital prototypes.]
+- **Game Engine(s):** [Don't know right now]
+- **Art Tools:** [Clipstudio, blender, medibangpaint]
+- **Audio Tools:** [Audacity, ableton]
+- **Version Control:** [GitHub for tracking development.]
+- **Publishing Platforms:** [Itch.io]
 
 ---
 
 ## Branding and Aesthetics
 *What will your studio's visual identity look like?*
 
-- **Logo Style:** [Nostalgic]
+- **Logo Style:** [Cool minimilist]
 - **Tagline Ideas:** 
   - [Tagline 1: e.g., "Simple Games, Complex Stories."]
   - [Tagline 2: e.g., "Where Mechanics Meet Meaning."]
   - [Tagline 3: e.g., "Architects of Fun."]
 
 -- **Sketches/Logo**:
+![image](https://github.com/user-attachments/assets/83399bd5-eade-4a8d-a46c-b21444357633)
 
 ---
 
