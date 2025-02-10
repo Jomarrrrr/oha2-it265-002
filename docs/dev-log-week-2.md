@@ -1,44 +1,41 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
-## Name: 
-### Module:
+## Name: Omar Ahmed
+### Module: 2
 
 <!-- Repeat the below as needed-->
-### Date: [MM/DD/YYYY]
+### Date: [02/08/2025]
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
+- [V] make characters fun to design
+- [ ] Balance movement
+- [ ] Find a game engine
 -->
 
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - <!--I thougth up some ideas, I want the game to be a boardgame but still feel movement based and have 2 or 3 different character types competing for a common goal-->
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  -  <!--Just thinking how to balance excessive movement in a board game setting.-->
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  -  <!--Different movement types can debuff how much you move fromt he dice roll after you exit the special movement-->
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+-  <!--All the talk of balance this week got me concerned. I feel it would be easy to accidentaly make something better than another thing and not notice until you have to fix it.-->
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
 -  <!--Your entry here or N/A if not applicable for this entry-->
 <!--
 
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
+- How can I balance movement types by messing with the movement system and the attibutes of each class.
   
 -->
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+-  <!--Look at more game engines and see what would be suitable and do the math for how big the board should be.-->
