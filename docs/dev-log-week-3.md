@@ -1,5 +1,5 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
-## Name: Ohmar Ahmed
+## Name: Omar Ahmed
 ### Module:3
 
 <!-- Repeat the below as needed-->
@@ -14,7 +14,7 @@
 
 #### Progress
 - **What I accomplished**:
-  - Just sohme ideas where sohme types of players can use spaces to hmogve across certain spaces and defeatingv enehmies gvigves different rewards
+  - Just some ideas where some types of players can use spaces to move across certain spaces and degeating enemies gives different rewards
 - **Challenges faced**:
   -N/a
 - **Solutions**:
