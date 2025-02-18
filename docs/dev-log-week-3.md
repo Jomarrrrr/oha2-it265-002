@@ -1,9 +1,9 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
-## Name: 
-### Module:
+## Name: Ohmar Ahmed
+### Module:3
 
 <!-- Repeat the below as needed-->
-### Date: [MM/DD/YYYY]
+### Date: [02/17/2025]
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
@@ -14,29 +14,22 @@
 
 #### Progress
 - **What I accomplished**:
-  - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - Just sohme ideas where sohme types of players can use spaces to hmogve across certain spaces and defeatingv enehmies gvigves different rewards
 - **Challenges faced**:
-  - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  -N/a
 - **Solutions**:
-  - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  -N/A
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+-  Used ideas of game balance and trying to make all units fun. 
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- It mgith be less fun since one fo the classes i thoguth up of seems to have less fun selfish things and is built around countering the other one.
 -  <!--Your entry here or N/A if not applicable for this entry-->
 <!--
 
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
-  
 -->
 
 #### Next Steps
