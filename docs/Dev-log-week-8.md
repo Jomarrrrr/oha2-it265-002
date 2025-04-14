@@ -3,42 +3,28 @@
 ### Module:
 
 <!-- Repeat the below as needed-->
-### Date: [MM/DD/YYYY]
+### Date: [4/13/2025]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
--->
+
 
 #### Progress
 - **What I accomplished**:
-  - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - More ideas for the game
 - **Challenges faced**:
-  - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - na
 - **Solutions**:
-  - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - na
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+-  Making it so there are less variables thought up on the fly so they can be hard coded into the game instead of a system of entering stuff
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--Your entry here or N/A if not applicable for this entry-->
-<!--
-
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
-  
--->
+-  I made a system where eveything in the inventory would do a specific thing so i cna just code a few of those instead of the endless stuff i hade before while keeping it interesting
+-  this translated to the physical prototype as cards for every item that says their effect instead of an abstract inventory
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- Start coding the bade gameboard and movement
