@@ -265,7 +265,11 @@ Dialouge heavy and I am 1 person, writing all the text would eb very time consum
 <!--
 Upload sketches here, or describe the key visual elements in detail if unavailable.
 -->
-![sprite of flats](image.png) ![alt text](image-1.png)![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/7e4e84b2-0183-4e9e-821b-05d131235765)
+![image](https://github.com/user-attachments/assets/4bcb9c5f-f028-4372-8850-ed581fa2a4e4)
+![image](https://github.com/user-attachments/assets/c515a351-1345-47f7-9d70-f4953fcbd377)
+![image](https://github.com/user-attachments/assets/9cb21582-3be9-48ad-b4b3-a40e286493f5)
+
 
 ---
 
