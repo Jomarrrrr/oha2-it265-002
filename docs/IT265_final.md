@@ -2,11 +2,11 @@
 Omar Ahmed
 ## CHANGELOG
 ---
--way smaller scope than board game jsut trying to get it to work
--some plugins found for rpg maker to make this easier
+-way smaller scope than board game jsut trying to get it to work, i also think not bombarding characters with a bunch of characters at the start is better
+-some plugins found for rpg maker to make this easier, If it aint broke dont fix it and they are offfically supported
 -interfacing with the datadrivin jsons in rpgmaker to streamline things like classes and items
--The game slowly became simplified into a tactics rpg this si reflected in everything below
--working on enemies droppign stuff
+-The game slowly became simplified into a tactics rpg this si reflected in everything below, making an item based tactis rpg is a lot more neat than tryign to just remake dnd byt worse
+
 
 
 ## Title
