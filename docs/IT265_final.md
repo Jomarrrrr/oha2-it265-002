@@ -1,5 +1,5 @@
 # IT265 Design Treatment Checkpoint
-
+Omar Ahmed
 ## CHANGELOG
 ---
 -way smaller scope than board game jsut trying to get it to work
