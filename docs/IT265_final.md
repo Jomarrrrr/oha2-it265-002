@@ -1,5 +1,6 @@
 # IT265 Design Treatment Checkpoint
 Omar Ahmed
+https://youtu.be/Zy6LTDMPhcU
 ## CHANGELOG
 ---
 -way smaller scope than board game jsut trying to get it to work, i also think not bombarding characters with a bunch of characters at the start is better
